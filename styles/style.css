@@ -150,9 +150,8 @@ img {
     .cabecalho {
         padding: 15%;
     }
-    img {
+    .apresentacao_imagem {
         height: 40px;
-        width: 40px;
     }
     .cabecalho_menu {
         justify-content: center;
