@@ -134,6 +134,7 @@ img {
     background-color: var(--cor-fundo);
     border-radius: 5px;
     font-size: 0.25rem;
+    font-size: 0.75rem;
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.3s, visible 0.3s;
