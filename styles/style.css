@@ -151,7 +151,8 @@ img {
         padding: 15%;
     }
     img {
-        width: 50%;
+        height: 40px;
+        width: 40px;
     }
     .cabecalho_menu {
         justify-content: center;
