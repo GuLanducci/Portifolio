@@ -33,7 +33,7 @@ body {
     font-family: 'fonte_um',sans-serif;
     text-decoration: none;
     color: var(--cor-terciaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 .cabecalho_menu_link:hover {
@@ -59,10 +59,10 @@ body {
 }
 .conteudo__titulo {
     text-align: center;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 .conteudo__texto {
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .apresentacao__links {
     display: flex;
@@ -79,7 +79,7 @@ body {
     border-radius: 8px;
     width: 378px;
     text-align: center;
-    font-size: 24px;
+    font-size: 1.5rem;
     padding: 21.5px 0;
     font-weight: bold;
     text-decoration: none;
@@ -97,7 +97,7 @@ body {
     transition: 0.7s ease-in;
 }
 .apresentacao__links_subtitulo {
- font-size: 20px;
+ font-size: 1.25rem;
 
 }
 .rodape {
@@ -133,7 +133,7 @@ img {
     color: #0F0F0F;
     background-color: var(--cor-fundo);
     border-radius: 5px;
-    font-size: 12px;
+    font-size: 0.75rem;
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.3s, visible 0.3s;
@@ -142,3 +142,6 @@ img {
     opacity: 1;
     visibility: visible;
  }
+
+
+
