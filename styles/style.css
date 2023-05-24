@@ -144,8 +144,14 @@ img {
     visibility: visible;
  }
  @media (max-width: 1200px) {
+    body {
+        align-items: center;
+    }
     .cabecalho {
-        padding: 10%;
+        padding: 15%;
+    }
+    img {
+        width: 30%;
     }
     .cabecalho_menu {
         justify-content: center;
@@ -157,3 +163,4 @@ img {
         width: auto;
     }
  }
+
