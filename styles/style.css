@@ -114,7 +114,7 @@ body {
     box-shadow: 0px 2px 0px 0px var(--cor-terciaria);
 }
 img {
-    height: 500px;
+    width: 50%;
     box-shadow: 3px 3px 3px 3px  var(--cor-terciaria);
     border-radius: 100%;
 }
@@ -150,11 +150,9 @@ img {
     .cabecalho {
         padding: 15%;
     }
-    .apresentacao_imagem {
-        height: 40px;
-    }
     .cabecalho_menu {
         justify-content: center;
+        gap: 60px;
     }
     .apresentacao {
         flex-direction: column-reverse;
